@@ -5,7 +5,7 @@
 1. Face recognition using __VGG Deep Face Model__. You can find details like performance from the paper, [Deep Face Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).  
   
 2. You need to download __model file(.prototxt)__ and __weight file(.caffemodel)__ from [here](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)  
-Go to the link and you can find __Downloads__ section. Download __vgg_face_caffe.tar.gz__ which contains prototxt file, caffemodel file and MATLAB example file.  
+Go to the link and you can find __Downloads__ section. Download __vgg_face_caffe.tar.gz__ which contains __prototxt file__, __caffemodel file__ and __MATLAB example file__.  
 
 ## Requsites  
 __1. Caffe (Deep Learning Library)__  
